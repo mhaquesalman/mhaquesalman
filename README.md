@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/C4E16AQF2OrMLkYmiJA/profile-displaybackgroundimage-shrink_350_1400/0/1634227356816?e=1726099200&v=beta&t=gVZePx2dawoCBQlhWVnqLYTstxPe2L_kZ6vZzsF_1WM)
+<!-- ![](https://media.licdn.com/dms/image/C4E16AQF2OrMLkYmiJA/profile-displaybackgroundimage-shrink_350_1400/0/1634227356816?e=1726099200&v=beta&t=gVZePx2dawoCBQlhWVnqLYTstxPe2L_kZ6vZzsF_1WM) -->
 
 ## Muhammad Moyeenul Haque Salman
 
@@ -10,9 +10,8 @@ I am a passionate developer who loves to build things by writing codes. My field
   - Android
   - Flutter
   - MERN
-  - Next
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaquesalman)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mhaquesalman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/salman-mohammad92//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/mmhsalman)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/mhaquesalman) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/salman-mohammad92//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://sites.google.com/view/mmhsalman)  
 
